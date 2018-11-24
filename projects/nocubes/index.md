@@ -7,7 +7,7 @@ image: /projects/nocubes/nocubes.jpeg
 
 Downloads
 - [NoCubes (Latest)](https://github.com/Cadiboo/NoCubes/releases/latest)
-- [RenderChunk rebuildChunk Hooks (Latest)](https://github.com/Cadiboo/RenderChunk-rebuildChunk-Hooks/releases/latest)
+- [RenderChunk rebuildChunk Hooks (Latest)](https://github.com/Cadiboo/RenderChunk-rebuildChunk-Hooks/releases/latest) (Required by NoCubes)
 
 For Testing
 - [Optifine (1.12.2_HD_U_E2)](/projects/nocubes/mods/OptiFine_1.12.2_HD_U_E2.jar)
