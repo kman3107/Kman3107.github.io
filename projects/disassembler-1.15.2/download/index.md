@@ -1,25 +1,12 @@
 ---
 layout: page
 title: Download NoCubes
-image: /projects/nocubes/nocubes.png
+image: /projects/disassembler-1.15.2/disassembler.png
 ---
-# Download NoCubes Mod for 1.14.4 / 1.13.2 / 1.12.2 / 1.7.10 / 1.7.2
-![Realistic](/projects/nocubes/sd-images/realistic.png "Realistic")
+# Download Disassembler Mod for 1.15.2
 
-## 1.14.4 (In development - Stable)
-- [CurseForge](https://minecraft.curseforge.com/projects/nocubes/files)
-- [GitHub](https://github.com/Cadiboo/NoCubes/releases/download/1.14.4-0.4.0-pre8/NoCubes-1.14.4-0.4.0-pre8.jar)
-
-## 1.13.2 (Full release - Stable)
-- [CurseForge](https://minecraft.curseforge.com/projects/nocubes/files)
-- [GitHub](https://github.com/Cadiboo/NoCubes/releases/download/1.13.2-0.3.0/NoCubes-1.13.2-0.3.0.jar)
-
-## 1.12.2 (Full release - Stable)
-- [CurseForge](https://minecraft.curseforge.com/projects/nocubes/files)
-- [GitHub](https://github.com/Cadiboo/NoCubes/releases/download/1.12.2-0.4.0-pre1/NoCubes-1.12.2-0.4.0-pre1.jar)
+## 1.15.2 (In development - Alpha)
+- [GitHub](https://github.com/Kman3107/Disasselbler-1.15.2/releases/download/1.15.2-0.1.0-pre2/Disassembler-1.15.2-0.1.0-pre2.jar)
 
 ## Old Versions
-- [NoCubes (1.7.2-0.3)](/projects/nocubes/download/old/No-Cubes-Mod-1.7.2-0.3.jar)
-- [NoCubes (1.7.2-1.7.10-0.8)](/projects/download/old/nocubes/noCubes-1.7.2-1.7.10-0.8.jar)
-- [NoCubes (1.7.10-1.0)](/projects/nocubes/download/old/nocubes-1.0.jar)
-- [NoCubes (1.7.10-1.3.2)](/projects/nocubes/download/old/[1.7.10]NoCubes1.3.2-Fixed.jar)
+- [Disassembler (1.15.2-0.1.0-pre1)](/projects/disassembler-1.15.2/download/old/Disassembler-1.15.2-0.1.0-pre1.jar)
