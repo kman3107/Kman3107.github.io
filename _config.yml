@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Cadiboo's Projects
+title: Kman3107's Projects
 
 # Short description of your site
-description: The home of Cadiboo's Programming Endeavours!
+description: Kman3107's Programming Chaos!
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,28 +20,16 @@ description: The home of Cadiboo's Programming Endeavours!
 
 # List of links in the navigation bar
 navbar-links:
-  Tutorials:
-    - All Tutorials: "https://cadiboo.github.io/tutorials/"
-    - 1.15: "https://cadiboo.github.io/tutorials/1.15.1/"
-    - Forge 1.15.1: "https://cadiboo.github.io/tutorials/1.15.1/forge/"
-    - 1.14: "https://cadiboo.github.io/tutorials/1.14.4/"
-    - Forge 1.14.4: "https://cadiboo.github.io/tutorials/1.14.4/forge/"
-    - 1.13: "https://cadiboo.github.io/tutorials/1.13.2/"
-    - Forge 1.13.2: "https://cadiboo.github.io/tutorials/1.13.2/forge/"
-    - 1.12: "https://cadiboo.github.io/tutorials/1.12.2/"
-    - Forge 1.12.2: "https://cadiboo.github.io/tutorials/1.12.2/"
   Projects:
     - All Projects: "https://cadiboo.github.io/projects/"
-    - NoCubes: "https://cadiboo.github.io/projects/nocubes/"
-    - RenderChunk rebuildChunk Hooks: "https://cadiboo.github.io/projects/renderchunk-rebuildchunk-hooks/"
-    - WIPTech: "https://cadiboo.github.io/projects/wiptech/"
+    - Disassembler: "https://cadiboo.github.io/projects/Disassembler-1.15.2"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
     - Site Source: "https://github.com/Cadiboo/Cadiboo.github.io"
-  # Author's home: "https://github.com/Cadiboo/"
+#   - Author's home: "https://github.com/Cadiboo/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -78,7 +66,7 @@ avatar-shadow: "#00FFFF78" #rgba(0, 255, 255, 0.8)
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Cadiboo
+  name: Kman3107
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -86,10 +74,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "cadiboodev@gmail.com"
+  email: "kman@unstick.com"
 #  facebook: daattali
-  github: Cadiboo
-#  twitter: daattali
+  github: Kman3107
+  twitter: <a href="https://www.twitter.com/kman3107">Kman3107</a>
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -97,11 +85,11 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  youtube: <a href="https://www.youtube.com/channel/UC-Yl2PbFJ_TpIDfoYywBOnA">Kman3107</a>
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
-#  twitch: yourname
+  twitch: <a href="https://www.twitch.tv/kman3107">Kman3107</a>
 #  yelp: yourname
 
 # Select which share links to show in posts
@@ -118,7 +106,7 @@ url-pretty: "Home"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "UA-130580840-1"
+#gtag: "UA-130580840-1"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
@@ -175,10 +163,10 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Oslo"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: /:day-:month-:year-:title/
 paginate: 5
 
 kramdown:
