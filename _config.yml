@@ -21,8 +21,8 @@ description: Kman3107's Programming Chaos!
 # List of links in the navigation bar
 navbar-links:
   Projects:
-    - All Projects: "https://cadiboo.github.io/projects/"
-    - Disassembler: "https://cadiboo.github.io/projects/Disassembler-1.15.2"
+    - All Projects: "https://kman3107.github.io/projects/"
+    - Disassembler: "https://kman3107.github.io/projects/Disassembler-1.15.2"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
