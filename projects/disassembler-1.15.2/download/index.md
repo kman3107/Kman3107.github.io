@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Download NoCubes
+title: Download Disassembler
 image: /projects/disassembler-1.15.2/disassembler.png
 ---
 # Download Disassembler Mod for 1.15.2
