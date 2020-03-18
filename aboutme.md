@@ -1,17 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: My amazing coding skills
+subtitle: I roam blindly in the dark
 ---
 
-My name is Cadiboo. I have the following qualities:
+My name is Kman3107. I have the following qualities:
 
-- I'm lucky with shotgun debugging
+- I like to try new things, and I don't give up easily.
 
 Thats about it
 
 Contact Me:
-- Email: [cadiboodev@gmail.com](mailto:cadiboodev@gmail.com)
-- Discord: `Cadiboo#8887`
-- Twitter: [https://twitter.com/Cadiboo1](https://twitter.com/Cadiboo1)
-- YouTube: [CadibooDev](https://www.youtube.com/channel/UCPcIerMYjlsb2jTKe--Da7g)
+- Email: [kman@unstick.org](mailto:kman@unstick.org)
+- Discord: `Kman3107#6135`
+- Twitter: [https://twitter.com/Kman3107](https://twitter.com/kman3107)
+- YouTube: [Kman3107](https://www.youtube.com/channel/UC-Yl2PbFJ_TpIDfoYywBOnA)
