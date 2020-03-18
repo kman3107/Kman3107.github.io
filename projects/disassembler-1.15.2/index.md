@@ -2,7 +2,7 @@
 layout: page
 title: Disassembler
 subtitle: A mod for 1.15.2 using Forge that enables recycling of items in Minecraft
-image: /projects/disassembler-1.15.2/disassembler.png
+image: /projects/disassembler-1.15.2/disassembly_book64.png
 ---
 ### About Disassembler
 Disassembler is a small mod that really only adds one functionality. To take apart your old and useless items.
