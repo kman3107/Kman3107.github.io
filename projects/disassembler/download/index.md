@@ -3,7 +3,7 @@ layout: page
 title: Download Disassembler
 image: /projects/disassembler/disassembler.png
 ---
-# Download Disassembler - A mod for 1.15.x
+# Disassembler for 1.15.x
 
 ## 1.15.2 (In development - Alpha)
 - [GitHub](https://github.com/kman3107/Disassembler/releases/download/1.15.2-0.1.0-pre2/Disassembler-1.15.2-0.1.0-pre2.jar)
