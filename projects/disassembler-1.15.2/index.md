@@ -15,9 +15,8 @@ To be able to disassemble any item you can think of.
 Download the mod here!
 
 ### ToDo List
-- [ ] Complete Block - (In pre-releases, needs testing)
-- [ ] Add Recipes - (In pre-releases, needs testing)
+Check out [Trello Page](https://trello.com/b/hJVwHymJ/disassembler-project)
 
 ### Screenshots
 Disassembler 1.15.2
-[![Disassembler 1.15.2](/projects/disassembler-1.15.2/screenshots/disassembler-1.15.2.png "Disassembler 1.15.2")](/projects/disassembler-1.15.2/screenshots/disassembler-1.15.2.png)
+[![Disassembler 1.15.2](/projects/disassembler-1.15.2/screenshots/disassembler-1.15.2-0.1.0-pre2.png "Disassembler 1.15.2")](/projects/disassembler-1.15.2/screenshots/disassembler-1.15.2-0.1.0-pre2.png)
