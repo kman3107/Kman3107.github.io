@@ -22,7 +22,7 @@ description: Kman3107's Programming Chaos!
 navbar-links:
   Projects:
     - All Projects: "https://kman3107.github.io/projects/"
-    - Disassembler: "https://kman3107.github.io/projects/disassembler-1.15.2"
+    - Disassembler: "https://kman3107.github.io/projects/disassembler"
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
