@@ -1,7 +1,7 @@
 {
-	"homepage": "https://Kman3107.github.io/projects/disassembler/",
+	"homepage": "https://Kman3107.github.io/projects/disassembler-1.15.2/",
 	"promos": {
-		"1.15.2-recommended": "1.15.2-0.1.0-pre2",
+		"1.15.2-recommended": "1.15.2-0.1.0-pre1",
 		"1.15.2-latest": "1.15.2-0.1.0-pre2"
 	}
 }
